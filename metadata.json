@@ -1,0 +1,7 @@
+{
+  "name": "Mister Service RD",
+  "description": "Una aplicación de gestión de servicios para Mister Service RD. Permite crear órdenes de servicio, gestionar clientes con su historial y asignar técnicos. Integrado con Google Calendar para una coordinación eficiente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
